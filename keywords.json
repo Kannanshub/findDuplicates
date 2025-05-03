@@ -1,0 +1,48 @@
+{
+  "topics": [
+    {
+      "topic": "Artificial Intelligence",
+      "keywords": [
+        "machine learning",
+        "neural networks",
+        "natural language processing",
+        "deep learning",
+        "automation",
+        "AI ethics"
+      ]
+    },
+    {
+      "topic": "Cybersecurity",
+      "keywords": [
+        "encryption",
+        "firewalls",
+        "phishing",
+        "malware",
+        "penetration testing",
+        "zero-day vulnerabilities"
+      ]
+    },
+    {
+      "topic": "Renewable Energy",
+      "keywords": [
+        "solar power",
+        "wind energy",
+        "hydroelectric",
+        "biomass",
+        "geothermal",
+        "energy storage"
+      ]
+    },
+    {
+      "topic": "Space Exploration",
+      "keywords": [
+        "NASA",
+        "Mars missions",
+        "exoplanets",
+        "space telescopes",
+        "satellite technology",
+        "asteroid mining"
+      ]
+    }
+  ]
+}
